@@ -30,4 +30,4 @@ Console-friendly, professional layout with emojis
 
 Python 3.x
 
-No external libraries required
+No external libraries required.
